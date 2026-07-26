@@ -8,7 +8,7 @@ Lição - Localizando serviços por categoria
 Configurar a linguagem / região (Explorar as configurações do AZURE) 
 Conhecendo um novo recurso e aprendendo a gerenciar
 
-Lição - Criando máquina virtual 
+<h1 style="text-align:center">Lição - Criando máquina virtual 
 
 <b>Criação e configuração de máquina virtual</b> 
 <b>Réplicas de dados em datacenters</b>
