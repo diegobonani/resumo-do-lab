@@ -3,13 +3,13 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 O que foi aprendido: 
 
-Lição - Localizando serviços por categoria 
+<h1 style="text-align:center">Lição - Localizando serviços por categoria </h1>
 
-Configurar a linguagem / região (Explorar as configurações do AZURE) 
-Conhecendo um novo recurso e aprendendo a gerenciar
+<b>Configurar a linguagem / região (Explorar as configurações do AZURE)<hr> 
+<b>Conhecendo um novo recurso e aprendendo a gerenciar
 
 <h1 style="text-align:center">Lição - Criando máquina virtual </h1>
 
 <b>Criação e configuração de máquina virtual</b><hr> 
-<b>Réplicas de dados em datacenters</b>
+<b>Réplicas de dados em datacenters</b><hr>
 <b>Armazenamento de contas</b> 
