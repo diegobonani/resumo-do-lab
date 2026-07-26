@@ -10,6 +10,6 @@ Conhecendo um novo recurso e aprendendo a gerenciar
 
 Lição - Criando máquina virtual 
 
-Criação e configuração de máquina virtual 
-Réplicas de dados em datacenters
-Armazenamento de contas 
+<b>Criação e configuração de máquina virtual</b> 
+<b>Réplicas de dados em datacenters</b>
+<b>Armazenamento de contas</b> 
